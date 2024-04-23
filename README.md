@@ -1,5 +1,6 @@
 # Movie-Recommender-System-tmdb-dataset
 A content based movie recommender system using cosine similarity
+TechStack: numpy , pandas
 ### Run app.py : streamlit run app.py
 ## Website 
 ![Screenshot ()](./website.png)
